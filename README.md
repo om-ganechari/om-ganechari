@@ -115,7 +115,7 @@
 - 🧠 **Data Science job simulation Certification**  
   🔗 [View Certificate](https://drive.google.com/file/d/1NPtjAybCW7lk8_IzCUKEXKtyzz-4sNXN/view?usp=drive_link)
 
-- 📊 **Data Science Certification**  
+- 📊 **Career Management Essentials-IBM**  
   🔗 [View Certificate](https://drive.google.com/file/d/1tz-mRQVg8j4xUODcZt1NDXS0DwVxCXDy/view?usp=drive_link)
 
 - 🐍 **Python for Data Science**  

@@ -17,6 +17,11 @@
 
 ---
 
+## 🎓 Education  
+- 🎓 **B-Tech in Artificial Intelligence & Data Science**
+
+- 
+
 ## 🛠️ Technical Skills  
 
   
@@ -67,9 +72,6 @@
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?logo=jupyter&logoColor=white)  
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?logo=visual-studio-code&logoColor=white)   
 ---
-
-## 🎓 Education  
-- 🎓 **B-Tech in Artificial Intelligence & Data Science**
    
   
 

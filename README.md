@@ -2,7 +2,7 @@
 <h1 align="center">Hii, I'm Om Ganechari </h1>
 <h3 align="center">AI & Data Science Engineer | Data Scientist | ML Enthusiast</h3>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=25&color=00F7FF&center=true&vCenter=true&width=700&lines=AI+%26+Data+Science+Engineer;Data+Scientist+%26+Analyst;Machine+Learning+Builder" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=25&color=00F7FF&center=true&vCenter=true&width=700&lines=AI+%26+Data+Science+Engineer;Data+Scientist+%26+Analyst;Machine+Learning+Engineer" />
 </p>
 
 
@@ -12,7 +12,7 @@
 - 🎓 Final Year Engineering Student (AI & Data Science)  
 - 💡 Passionate about solving real-world problems using AI  
 - ⚙️ Currently working on ML & Data Science projects  
-- 📊 Interested in AI , Data Analysis, building ML models 
+- 📊 Interested in AI,Data Analysis,building ML models,NLP,Deep Learning etc.
 - 🎯 Goal: Become a Data Scientist   
 
 ---

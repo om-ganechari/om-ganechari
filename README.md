@@ -124,7 +124,7 @@
 - 🤖 **Cybersecurity Fundamentals-IBM**  
   🔗 [View Certificate](https://drive.google.com/file/d/1u6bPA2XypLydcm-vYm5W9cxvSh_Atnpl/view?usp=drive_link)
 
-- 👁️ **Computer Vision Certification**  
+- 👁️ **Cyber Job Simulation-Deloitte**  
   🔗 [View Certificate](https://drive.google.com/file/d/1jUeVF_xw3r7-uIuQQx9hxLc7psPDwRct/view?usp=drive_link)
 
 - 🗣️ **Natural Language Processing (NLP)**  

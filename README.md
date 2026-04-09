@@ -1,5 +1,6 @@
 
-
+<h1 align="center">Hii, I'm Om Ganechari </h1>
+<h3 align="center">AI & Data Science Engineer | Data Scientist | ML Enthusiast</h3>
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?size=25&color=00F7FF&center=true&vCenter=true&width=700&lines=AIML+%26+Data+Science+Engineer)
 
 ---
@@ -8,7 +9,7 @@
 - 🎓 Final Year Engineering Student (AI & Data Science)  
 - 💡 Passionate about solving real-world problems using AI  
 - ⚙️ Currently working on ML & Data Science projects  
-- 📊 Interested in Data Analysis, building ML models 
+- 📊 Interested in AI , Data Analysis, building ML models 
 - 🎯 Goal: Become a Data Scientist   
 
 ---
@@ -66,62 +67,6 @@
   
 
 ---
-
-## 📜 Certifications  
-- ✅ Machine Learning (Add platform: Coursera / Udemy / etc.)  
-- ✅ Data Science Certification  
-- ✅ Python for Data Science 
-
----
-
-## 📌 Projects  
-- 🔹 Face Recognition Attendance System  
-- 🔹 Diabetes Prediction Model  
-- 🔹 Mental Health AI Analyzer  
-
----
-
-## 🌐 Connect With Me  
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](www.linkedin.com/in/om-ganechari)  
-[![GitHub](https://img.shields.io/badge/GitHub-black?logo=github)](https://github.com/om-ganechari)  
-[![Email](https://img.shields.io/badge/Email-red?logo=gmail)](mailto:omganechari0@gmail.com)
-
----
-
-## 📊 GitHub Stats  
-
-![Omii's GitHub stats](https://github-readme-stats.vercel.app/api?username=om-ganechari&show_icons=true&theme=radical)
-
----
-
-## 🔥 Quote  
-_"Discipline beats motivation. Consistency builds success."_
-
-
-
-
-
-
-
-<h1 align="center">Hi 👋, I'm Om Ganechari</h1>
-<h3 align="center">AI & Data Science Engineer | Data Scientist | ML Enthusiast</h3>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=25&color=00F7FF&center=true&vCenter=true&width=700&lines=AI+%26+Data+Science+Engineer;Data+Scientist+%26+Analyst;Machine+Learning+Builder;Future+UPSC+Officer" />
-</p>
-
----
-
-## 🧠 About Me  
-- 🎓 AI & Data Science Engineering Student  
-- 💡 Turning Data into Intelligent Systems  
-- 🤖 Skilled in ML, DL, CV, NLP  
-- 📊 Strong in Data Analysis & Visualization  
-- 🎯 Goal: Data Scientist + Government Service  
-
----
-
 ## 🚀 Featured Projects  
 
 ### 🧪 Diabetes Prediction  
@@ -160,13 +105,23 @@ _"Discipline beats motivation. Consistency builds success."_
 
 ---
 
-## 🛠️ Tech Stack  
+## 📜 Certifications    
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,c,js,tensorflow,keras,mongodb,express,react,nodejs,mysql,git,github,vscode,postman" />
-</p>
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-Certified-blue)  
+![Data Science](https://img.shields.io/badge/Data%20Science-Certified-green)  
+![Python](https://img.shields.io/badge/Python%20for%20Data%20Science-Certified-yellow)  
 
 ---
+
+
+## 🌐 Connect With Me  
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](www.linkedin.com/in/om-ganechari)  
+[![GitHub](https://img.shields.io/badge/GitHub-black?logo=github)](https://github.com/om-ganechari)  
+[![Email](https://img.shields.io/badge/Email-red?logo=gmail)](mailto:omganechari0@gmail.com)
+
+---
+
 
 ## 📊 GitHub Stats  
 
@@ -177,15 +132,14 @@ _"Discipline beats motivation. Consistency builds success."_
 
 ---
 
-## 🌐 Connect With Me  
+## 🔥 Quote  
+_"Discipline beats motivation. Consistency builds success."_
 
-<p align="center">
-  <a href="YOUR_LINKEDIN_LINK"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin" /></a>
-  <a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/Email-red?logo=gmail" /></a>
-  <a href="https://github.com/om-ganechari"><img src="https://img.shields.io/badge/GitHub-black?logo=github" /></a>
-</p>
 
 ---
 
-## 🔥 Quote  
-_"Consistency beats talent when talent doesn’t work hard."_  
+
+---
+
+
+ 

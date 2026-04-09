@@ -118,7 +118,7 @@
 - 📊 **Career Management Essentials-IBM**  
   🔗 [View Certificate](https://drive.google.com/file/d/1tz-mRQVg8j4xUODcZt1NDXS0DwVxCXDy/view?usp=drive_link)
 
-- 🐍 **Python for Data Science**  
+- 🐍 **Artificial Intelligence Fundamentals-IBM**  
   🔗 [View Certificate](https://drive.google.com/file/d/1tzExAfd92_bJS9MZC6vWs_w0O-rOF3jQ/view?usp=drive_link)
 
 - 🤖 **Deep Learning Certification**  

@@ -121,7 +121,7 @@
 - 🐍 **Artificial Intelligence Fundamentals-IBM**  
   🔗 [View Certificate](https://drive.google.com/file/d/1tzExAfd92_bJS9MZC6vWs_w0O-rOF3jQ/view?usp=drive_link)
 
-- 🤖 **Deep Learning Certification**  
+- 🤖 **Cybersecurity Fundamentals-IBM**  
   🔗 [View Certificate](https://drive.google.com/file/d/1u6bPA2XypLydcm-vYm5W9cxvSh_Atnpl/view?usp=drive_link)
 
 - 👁️ **Computer Vision Certification**  

@@ -115,20 +115,25 @@
 - 🧠 **Data Science job simulation Certification**  
   🔗 [View Certificate](https://drive.google.com/file/d/1NPtjAybCW7lk8_IzCUKEXKtyzz-4sNXN/view?usp=drive_link)
 
+  
+- 🗣️ **Data Analytics Job Simulation-Deloitte**  
+  🔗 [View Certificate](https://drive.google.com/file/d/1ihY_E6XwTu4641YIl4s3jQHcz498kmOu/view?usp=drive_link)
+
+
 - 📊 **Career Management Essentials-IBM**  
   🔗 [View Certificate](https://drive.google.com/file/d/1tz-mRQVg8j4xUODcZt1NDXS0DwVxCXDy/view?usp=drive_link)
+  
 
 - 🐍 **Artificial Intelligence Fundamentals-IBM**  
   🔗 [View Certificate](https://drive.google.com/file/d/1tzExAfd92_bJS9MZC6vWs_w0O-rOF3jQ/view?usp=drive_link)
+  
 
 - 🤖 **Cybersecurity Fundamentals-IBM**  
   🔗 [View Certificate](https://drive.google.com/file/d/1u6bPA2XypLydcm-vYm5W9cxvSh_Atnpl/view?usp=drive_link)
+  
 
 - 👁️ **Cyber Job Simulation-Deloitte**  
   🔗 [View Certificate](https://drive.google.com/file/d/1jUeVF_xw3r7-uIuQQx9hxLc7psPDwRct/view?usp=drive_link)
-
-- 🗣️ **Natural Language Processing (NLP)**  
-  🔗 [View Certificate](https://drive.google.com/file/d/1ihY_E6XwTu4641YIl4s3jQHcz498kmOu/view?usp=drive_link)
 
 ---
 
@@ -152,7 +157,7 @@
 ---
 
 ## 🔥 Quote  
-_"Discipline beats motivation. Consistency builds success."_
+_**Discipline beats motivation. Consistency builds success.**_
 
 
 ---

@@ -108,11 +108,27 @@
 
 ---
 
-## 📜 Certifications    
+## 📜 Certifications  
 
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-Certified-blue)  
-![Data Science](https://img.shields.io/badge/Data%20Science-Certified-green)  
-![Python](https://img.shields.io/badge/Python%20for%20Data%20Science-Certified-yellow)  
+### 🎓 Machine Learning & Data Science Certifications  
+
+- 🧠 **Machine Learning Certification**  
+  🔗 [View Certificate](https://drive.google.com/file/d/1NPtjAybCW7lk8_IzCUKEXKtyzz-4sNXN/view?usp=drive_link)
+
+- 📊 **Data Science Certification**  
+  🔗 [View Certificate](https://drive.google.com/file/d/1tz-mRQVg8j4xUODcZt1NDXS0DwVxCXDy/view?usp=drive_link)
+
+- 🐍 **Python for Data Science**  
+  🔗 [View Certificate](https://drive.google.com/file/d/1tzExAfd92_bJS9MZC6vWs_w0O-rOF3jQ/view?usp=drive_link)
+
+- 🤖 **Deep Learning Certification**  
+  🔗 [View Certificate](https://drive.google.com/file/d/1u6bPA2XypLydcm-vYm5W9cxvSh_Atnpl/view?usp=drive_link)
+
+- 👁️ **Computer Vision Certification**  
+  🔗 [View Certificate](https://drive.google.com/file/d/1jUeVF_xw3r7-uIuQQx9hxLc7psPDwRct/view?usp=drive_link)
+
+- 🗣️ **Natural Language Processing (NLP)**  
+  🔗 [View Certificate](https://drive.google.com/file/d/1ihY_E6XwTu4641YIl4s3jQHcz498kmOu/view?usp=drive_link)
 
 ---
 

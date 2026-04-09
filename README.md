@@ -112,7 +112,7 @@
 
 ### 🎓 Machine Learning & Data Science Certifications  
 
-- 🧠 **Machine Learning Certification**  
+- 🧠 **Data Science job simulation Certification**  
   🔗 [View Certificate](https://drive.google.com/file/d/1NPtjAybCW7lk8_IzCUKEXKtyzz-4sNXN/view?usp=drive_link)
 
 - 📊 **Data Science Certification**  

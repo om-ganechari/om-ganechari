@@ -1,4 +1,4 @@
-# 👋 Hii, I'm Omii  
+
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?size=25&color=00F7FF&center=true&vCenter=true&width=700&lines=AI+%26+Data+Science+Engineer;Aspiring+Data+Scientist+%26+Analyst;Machine+Learning+Enthusiast;Future+UPSC+Officer)
 

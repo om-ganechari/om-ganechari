@@ -32,6 +32,9 @@
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white)  
 ![Keras](https://img.shields.io/badge/Keras-D00000?logo=keras&logoColor=white)  
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?logo=scikit-learn&logoColor=white)  
+![NumPy](https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white)  
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?logo=plotly&logoColor=white)  
+![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?logo=python&logoColor=white)  
 ![Deep Learning](https://img.shields.io/badge/Deep%20Learning-blue)  
 ![Neural Networks](https://img.shields.io/badge/Neural%20Networks-purple)  
 ![Computer Vision](https://img.shields.io/badge/Computer%20Vision-green)  
@@ -66,7 +69,8 @@
 ---
 
 ## 🎓 Education  
-- 🎓 B-Tech in Artificial Intelligence & Data Science  
+- 🎓 **B-Tech in Artificial Intelligence & Data Science**
+   
   
 
 ---

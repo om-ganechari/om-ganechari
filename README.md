@@ -2,7 +2,7 @@
 <h1 align="center">Hii, I'm Om Ganechari </h1>
 <h3 align="center">AI & Data Science Engineer | Data Scientist | ML Enthusiast</h3>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=25&color=00F7FF&center=true&vCenter=true&width=700&lines=AI+%26+Data+Science+Engineer;Data+Scientist+%26+Analyst;Machine+Learning+Engineer" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=25&color=FFA500&center=true&vCenter=true&width=700&lines=AI+%26+Data+Science+Engineer;Data+Scientist+%26+Analyst;Machine+Learning+Engineer" />
 </p>
 
 

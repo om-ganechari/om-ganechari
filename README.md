@@ -60,6 +60,16 @@
 ---
 ## 🚀 Featured Projects  
 
+
+## 🛍️ Customer Shopping Behavior Analysis
+🔗
+-Analyzed customer shopping data to identify purchasing patterns and customer behavior.
+-Used SQL for business analysis and Python for data exploration.
+-Built an interactive Power BI dashboard to visualize key metrics and insights.
+-Tools: SQL, Python, Pandas, Power BI
+
+
+
 ### 🧪 Diabetes Prediction  
 🔗 https://github.com/om-ganechari/Diabetes-Prediction-  
 - ML model predicting diabetes using health metrics  
@@ -136,12 +146,17 @@
 
 ## 📊 GitHub Stats  
 
+<h2 align="center">📊 GitHub Analytics</h2>
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=om-ganechari&show_icons=true&theme=radical" height="150"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=om-ganechari&theme=radical" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=om-ganechari&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="165" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=om-ganechari&theme=tokyonight&hide_border=true" height="165" alt="GitHub Streak" />
 </p>
 
----
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=om-ganechari&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" height="165" alt="Top Languages" />
+</p>
+
 
 ## 🔥 Quote  
 _**Discipline beats motivation. Consistency builds success.**_

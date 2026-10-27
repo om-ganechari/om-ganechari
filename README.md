@@ -62,7 +62,7 @@
 
 
 ## 🛍️ Customer Shopping Behavior Analysis
-🔗
+🔗https://github.com/om-ganechari/customer_shopping_behavior_analysis
 -Analyzed customer shopping data to identify purchasing patterns and customer behavior.
 -Used SQL for business analysis and Python for data exploration.
 -Built an interactive Power BI dashboard to visualize key metrics and insights.
@@ -76,6 +76,8 @@
 - Built with Scikit-learn & Streamlit  
 
 ---
+
+## 🤖 Additional Data Science Projects 
 
 ### 🏏 IPL Winner Prediction  
 🔗 https://github.com/om-ganechari/-IPL_Winner_Prediction  
@@ -108,10 +110,7 @@
 
 ## 📜 Certifications  
 
-### 🎓 Machine Learning & Data Science Certifications  
-
-- 🧠 **Data Science job simulation Certification**  
-  🔗 [View Certificate](https://drive.google.com/file/d/1NPtjAybCW7lk8_IzCUKEXKtyzz-4sNXN/view?usp=drive_link)
+### 📊 Data Analytics & Business Skills 
 
   
 - 🗣️ **Data Analytics Job Simulation-Deloitte**  
@@ -121,6 +120,11 @@
 - 📊 **Career Management Essentials-IBM**  
   🔗 [View Certificate](https://drive.google.com/file/d/1tz-mRQVg8j4xUODcZt1NDXS0DwVxCXDy/view?usp=drive_link)
   
+## 🤖 Data Science, AI & Technology
+
+- 🧠 **Data Science job simulation Certification**  
+  🔗 [View Certificate](https://drive.google.com/file/d/1NPtjAybCW7lk8_IzCUKEXKtyzz-4sNXN/view?usp=drive_link)
+
 
 - 🐍 **Artificial Intelligence Fundamentals-IBM**  
   🔗 [View Certificate](https://drive.google.com/file/d/1tzExAfd92_bJS9MZC6vWs_w0O-rOF3jQ/view?usp=drive_link)
@@ -135,6 +139,13 @@
 
 ---
 
+## 🎯 Career Focus
+
+I'm a 2026 Artificial Intelligence and Data Science Engineering graduate seeking entry-level Data Analyst opportunities.
+
+My focus is on SQL, Python, Excel, Power BI, data visualization, exploratory data analysis, and translating data into actionable business insights. 
+
+---
 
 ## 🌐 Connect With Me  
 

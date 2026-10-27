@@ -63,10 +63,10 @@
 
 ## 🛍️ Customer Shopping Behavior Analysis
 🔗https://github.com/om-ganechari/customer_shopping_behavior_analysis
--Analyzed customer shopping data to identify purchasing patterns and customer behavior.
--Used SQL for business analysis and Python for data exploration.
--Built an interactive Power BI dashboard to visualize key metrics and insights.
--Tools: SQL, Python, Pandas, Power BI
+- Analyzed customer shopping data to identify purchasing patterns and customer behavior.
+- Used SQL for business analysis and Python for data exploration.
+- Built an interactive Power BI dashboard to visualize key metrics and insights.
+- Tools: SQL, Python, Pandas, Power BI
 
 
 

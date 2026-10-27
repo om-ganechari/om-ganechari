@@ -1,6 +1,6 @@
 
 <h1 align="center">Hii, I'm Om Ganechari </h1>
-<h3 align="center"> Aspiring Data Analyst | Data Scientist </h3>
+<h3 align="center"> Aspiring Data Analyst </h3>
  <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?size=25&color=FFA500&center=true&vCenter=true&width=700&lines=Aspiring+Data+Analyst;Aspiring+Data+Scientist" />
 </p>

@@ -1,20 +1,20 @@
 
 <h1 align="center">Hii, I'm Om Ganechari </h1>
-<h3 align="center">AI & Data Science Engineer | Data Scientist | ML Enthusiast</h3>
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=25&color=FFA500&center=true&vCenter=true&width=700&lines=AI+%26+Data+Science+Engineer;Data+Scientist+%26+Analyst;Machine+Learning+Engineer" />
+<h3 align="center"> Aspiring Data Analyst | Data Scientist </h3>
+ <p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=25&color=FFA500&center=true&vCenter=true&width=700&lines=Aspiring+Data+Analyst;Aspiring+Data+Scientist" />
 </p>
-
 
 ---
 
-##  About Me  
-- 🎓 Final Year Engineering Student (AI & Data Science)  
-- 💡 Passionate about solving real-world problems using AI  
-- ⚙️ Currently working on ML & Data Science projects  
-- 📊 Interested in AI,Data Analysis,building ML models,NLP,Deep Learning etc.
-- 🎯 Goal: Become a Data Scientist   
+## 👨‍💻 About Me
 
+- 📊 Aspiring Data Analyst passionate about transforming raw data into meaningful insights and actionable business recommendations.
+- 🛠️ Skilled in SQL, Python, Power BI, Excel, Pandas,NumPy,matplotlib and seaborn.
+- 📈 Interested in Exploratory Data Analysis (EDA), data visualization, business intelligence, and statistical analysis.
+- 🚀 Building practical projects involving data cleaning, SQL queries, interactive dashboards, and data-driven decision-making.
+- 🤖 Exploring Machine Learning and predictive analytics to expand my Data Science expertise.
+- 🎯 **Career Goal:** To start my career as a Data Analyst and contribute to data-driven business decisions while continuously developing my analytical skills.
 ---
 
 ## 🎓 Education  
@@ -27,30 +27,26 @@
   
 
 ### 💻 Programming Languages  
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)  ![C](https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=black)  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)  
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL" />
+  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" alt="Microsoft Excel" />
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI" />
+</p>
 
----
+### 🐍 Python Data Analysis Libraries
 
-### 🤖 AI & Machine Learning  
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white)  ![Keras](https://img.shields.io/badge/Keras-D00000?logo=keras&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?logo=scikit-learn&logoColor=white)  ![NumPy](https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white) 
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?logo=plotly&logoColor=white)  ![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?logo=python&logoColor=white)
-![Deep Learning](https://img.shields.io/badge/Deep%20Learning-blue)  ![Neural Networks](https://img.shields.io/badge/Neural%20Networks-purple)  
-![Computer Vision](https://img.shields.io/badge/Computer%20Vision-green)  
-![NLP](https://img.shields.io/badge/NLP-orange)  ![Model Evaluation](https://img.shields.io/badge/Model%20Evaluation-grey)  
-
----
-
-### 🌐 Web Development  
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white)  ![Express.js](https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=white)  
-![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB)  ![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white)  
-![REST API](https://img.shields.io/badge/REST%20API-blue)  ![Authentication](https://img.shields.io/badge/Auth-red)  
-![Deployment](https://img.shields.io/badge/Deployment-black)  
+<p align="left">
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white" alt="Matplotlib" />
+  <img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge&logo=python&logoColor=white" alt="Seaborn" />
+</p>
 
 ---
 
 ### 🗄️ Databases  
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white)  ![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)  ![SQL](https://img.shields.io/badge/SQL-grey)  
+ ![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)  ![SQL](https://img.shields.io/badge/SQL-grey)  
 
 ---
 
